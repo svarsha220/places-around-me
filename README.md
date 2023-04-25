@@ -177,7 +177,8 @@ The Anjaneya Temple at Nanganallur, Chennai is a Hindu temple dedicated to the g
 ![output](./out3.png)
 ![output](./out4.png)
 ![output](./out5.png)
-![output](./out6.png)
+
+![output](http://svarsha.student.saveetha.in:8000/static/images/out6.png?raw=true)
 ## html validator
 ![HTML Validator](./valid.png)
 
