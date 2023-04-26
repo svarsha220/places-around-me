@@ -171,16 +171,16 @@ The Anjaneya Temple at Nanganallur, Chennai is a Hindu temple dedicated to the g
 </html>
 ```
 ## Output:
-![output](./out1.png)
+![output](./screenshort/out1.png)
 
-![output](./out2.png)
-![output](./out3.png)
-![output](./out4.png)
-![output](./out5.png)
+![output](./screenshort/out2.png)
+![output](./screenshort/out3.png)
+![output](./screenshort/out4.png)
+![output](./screenshort/out5.png)
+![output](./screenshort/out6.png)
 
-![output](http://svarsha.student.saveetha.in:8000/static/images/out6.png?raw=true)
 ## html validator
-![HTML Validator](./valid.png)
+![HTML Validator](./screenshort/valid.png)
 
 ## Result:
 The program for implementing image map is executed successfully
